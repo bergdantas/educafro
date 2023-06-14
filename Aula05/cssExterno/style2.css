@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+.id1{
+    background-color: blueviolet;
+    border:2px solid chocolate; 
+}
+
+.id2{
+    background-color: chocolate;
+    border:2px solid blueviolet;
+}
+.id1e2{
+    width:50px;
+    height:50px; 
+    padding:10px;
+    margin:10px;
+}
